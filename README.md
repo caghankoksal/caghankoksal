@@ -1,4 +1,4 @@
-# [Çağhan Köksal]
+# Çağhan Köksal
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Connect with me on:
 
 ## Contact
 
-Feel free to reach out to me at [caghan.koksal@tum.de] for any inquiries or collaboration opportunities.
+Feel free to reach out to me at [here](caghan.koksal@tum.de) for any inquiries or collaboration opportunities.
 
 ## Conclusion
 
