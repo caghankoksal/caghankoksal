@@ -18,12 +18,6 @@ I have worked on different tasks of machine learning such as Unsupervised (Video
 - [**Face Generation In Golden Age Comics:**](https://github.com/barisbatuhan/SSuperGAN) Worked on Context-based Face Generation in Golden Age Comics (US Comics between the 1930s-1950s). The model predicts the masked face by giving consecutive comic book panels to the model with a randomly selected face masked at the last frame.
 
 
-
-
-## GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=caghankoksal&show_icons=true&count_private=true)](https://github.com/caghankoksal)
-
 ## Social Media
 
 Connect with me on:
