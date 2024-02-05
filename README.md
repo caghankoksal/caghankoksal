@@ -1,8 +1,6 @@
-# Çağhan Köksal
+Hi there! 👋
 
-## Introduction
-
-Hi there! 👋 I'm Çağhan Köksal, MSc. student at Technical University of Munich, and a Machine Learning Engineer based in Münich. I'm passionate about working on complex problems and making them easier. I love learning about state of art research and leverage them to solve real world problems.
+I'm Çağhan Köksal, MSc. student at Technical University of Munich, and a Machine Learning Engineer based in Münich. I'm passionate about working on complex problems and making them easier. I love learning about state of art research and leverage them to solve real world problems.
 I have worked on different tasks of machine learning such as Unsupervised (Video) Segmentation, Self-Supervised Learning, Image Generation and Manipulation, Multi-modal learning and Named Entity Recongition.
 
 ## Skills
