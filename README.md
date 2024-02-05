@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 I'm Çağhan Köksal, MSc. student at Technical University of Munich, and a Machine Learning Engineer based in Münich. I'm passionate about working on complex problems and making them easier. I love learning about state of art research and leverage them to solve real world problems.
 I have worked on different tasks of machine learning such as Unsupervised (Video) Segmentation, Self-Supervised Learning, Image Generation and Manipulation, Multi-modal learning and Named Entity Recongition.
@@ -16,11 +16,13 @@ I have worked on different tasks of machine learning such as Unsupervised (Video
 - [**Face Generation In Golden Age Comics:**](https://github.com/barisbatuhan/SSuperGAN) Worked on Context-based Face Generation in Golden Age Comics (US Comics between the 1930s-1950s). The model predicts the masked face by giving consecutive comic book panels to the model with a randomly selected face masked at the last frame.
 
 
-## Social Media
+## Links
 
 Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/caghankoksal/)
+- [Google Scholar](https://scholar.google.com/citations?user=oGriZBAAAAAJ&hl=en&oi=ao)
+- [CV](https://flowcv.com/resume/14mle86sqp)
 
 
 ## Contact
